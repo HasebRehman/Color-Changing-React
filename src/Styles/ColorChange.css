@@ -1,0 +1,89 @@
+.bg-color {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    color: white;
+    font-size: 3.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    position: relative;
+    top: 5%;
+}
+
+.btnBox {
+    background-color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 13%;
+}
+
+.btns {
+    color: white;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 18px;
+    padding: 10px 15px 10px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.btns:hover {
+    box-shadow: 0px 10px 10px 0px gray;
+}
+
+#red {
+    background-color: red;
+}
+
+#Green {
+    background-color: green;
+}
+
+#Blue {
+    background-color: Blue;
+}
+
+#Olive {
+    background-color: Olive;
+}
+
+#Yellow {
+    background-color: Yellow;
+    color: black;
+}
+
+#Pink {
+    background-color: Pink;
+    color: black;
+}
+
+#Purple {
+    background-color: Purple;
+}
+
+#Lavender {
+    background-color: Lavender;
+    color: black;
+}
+
+#White {
+    background-color: White;
+    color: black;
+}
+
+#Black {
+    background-color: Black;
+}
+
+#Gray {
+    background-color: Gray;
+}
